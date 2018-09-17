@@ -1,0 +1,20 @@
+body {
+    background-color:whitesmoke;
+    text-align: center;
+    }
+
+input {
+        margin: 10px;
+}
+
+div {
+    margin: 20px;
+    color:blue;
+}
+
+label{
+    margin-right: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+
+}
